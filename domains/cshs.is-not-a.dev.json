@@ -1,7 +1,7 @@
 {
   "description": "Base domain for cshs projects.",
   "domain": "is-not-a.dev",
-  "subdomain": "cshs",
+  "subdomain": "*.cshs",
   "owner": {
     "repo": "https://github.com/Chaim12345/FDregister",
     "email": "awayt3005@proton.me"
